@@ -1,4 +1,4 @@
 highlighter: rouge
 #github: [Repository metadata]
 permalink: pretty
-baseurl: '/handsfree_web'
+baseurl: 'handsfree_web'
