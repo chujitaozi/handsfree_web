@@ -1,20 +1,43 @@
 ---
 layout: default
-title: TurtleBot
-html_title: TurtleBot
+title: HandsFree
+html_title: HandsFree
 ---
-
 <div class="row content-container visual_line">
   <div class="l_box">
-    <img id="largeRobot" src="{{ site.baseurl }}/assets/images/turtlebot3_with_logo.png" alt="" />
+
+    <h1 id="what-is-a-turtlebot">WHY HandsFree?</h1>
+<br>
+    <p>
+            当你热爱某种事物，你可能会想办法去弥补它身上的缺点，即使意味着会牺牲你一点点，
+            我们只是一群呆在大学里幼稚青年，但我们也有着对机器人事业的向往。
+        </p>
+        <p>
+            Hands Free， 顾名思义解放双手。 我们想做到的是能够搭建一个共享的平台，一个友好的易于共同开发的框架。
+            Hands Free 从嵌入式平台开始，逐步地扩展到了相应的其他周边，
+            为的是让整个机器人的开发过程降低耦合，尽可能地减少一些底层的开发环节，在开发过程中提供了一个更好的交流方式。
+            Hands Free 其理念核心是优化开发过程的同时，让设计的 idea 的分享过程更加 Free，是乐于分享的，鼓励分享的。
+        </p>
+        <p>
+            HANDS FREE 是一个面向机器人研究、开发的开源软硬件系统。
+            她有完备与科学的框架， 以优秀的嵌入式系统框架为核心， 精良的电路、 机械设计为支撑，帮您快速实现多种形态的机器人。
+            本系统包含机器人导航，SLAM，计算机视觉等模块， 并拥有自己上层软件和调试系统。
+            她支持国外其他的开源项目， 如 ROS,MPRT, PIXHAWK 等，这一切都为您带来了无比的便捷和快乐！
+        </p>
+        <p>
+            Hands Free Team 是一个乐于奉献于机器人事业的团队，我们希望能为每一个走进机器人世界的学者带来便利！！！
+        </p>
+
   </div>
-  <div class="r_box quick_menu">
-    <ul>
-      <li><a href="{{ site.baseurl }}/qna"><div class="txt">Q&amp;A</div><img src="{{ site.baseurl }}/assets/images/quick_menu1.gif" alt="" /></a></li>
+  <div class="r_box">
+     <img id="largeRobot" src="{{ site.baseurl }}/assets/images/handsfree/handsfreelogo.jpg" alt="" />
+<!--    <ul>
+      <li><a href="{{ site.baseurl }}/qna"><div  class="txt">Q&amp;A</div><img src="{{ site.baseurl }}/assets/images/quick_menu2.gif" alt="" /></a></li>
       <li><a href="{{ site.baseurl }}/learn"><div class="txt">Learn</div><img  src="{{ site.baseurl }}/assets/images/quick_menu2.gif" alt="" /></a></li>
       <li><a href="{{ site.baseurl }}/opensource"><div class="txt">Open<br />Source</div><img  src="{{ site.baseurl }}/assets/images/quick_menu3.gif" alt=""  /></a></li>
       <li><a href="{{ site.baseurl }}/partners"><div class="txt">Partners</div><img  src="{{ site.baseurl }}/assets/images/quick_menu4.gif" alt="" /></a></li>
     </ul>
+ -->
   </div>
 </div>
 <!--
@@ -22,7 +45,7 @@ html_title: TurtleBot
 
 <div class="row content-container whatis">
   <div class="l_box">
-    <h1 id="what-is-a-turtlebot">What is a TurtleBot?</h1>
+    <h1 id="what-is-a-turtlebot">WHY HandsFree?</h1>
     <p>TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.</p>
 
     <p>For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
@@ -105,4 +128,4 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 
 
 </div>
--->
+ -->
