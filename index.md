@@ -40,30 +40,20 @@ html_title: HandsFree
  -->
   </div>
 </div>
-<!--
+
 <br>
 
-<div class="row content-container whatis">
-  <div class="l_box">
-    <h1 id="what-is-a-turtlebot">WHY HandsFree?</h1>
-    <p>TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.</p>
 
-    <p>For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise.
-    <a href="http://spectrum.ieee.org/automaton/robotics/diy/interview-turtlebot-inventors-tell-us-everything-about-the-robot">TurtleBot Inventors Tell Us Everything About the Robot</a> (IEEE Spectrum, By Evan Ackerman, 26 Mar 2013)</p>
-
-    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/9OC3J53RUsk?ecver=1" frameborder="0" allowfullscreen></iframe></p>
-  </div>
-  <div class="r_box">
-    <img id="rider" src="./assets/images/turtlebot_rider_with_oshw.gif" alt="" />
-  </div>
-</div>
-
-# TurtleBot Family
+# The History Of HandsFree 
 
 <div style=" text-align:center ; padding:10px; ">
-  <img id="family" src="{{ site.baseurl }}/assets/images/turtlebot_family.png" alt="TurtleBot Family" style="width:100%; max-width:800px;" />
+  <img id="family" src="{{ site.baseurl }}/assets/images/handsfree/history.jpg" alt="TurtleBot Family" style="width:108%; max-width:1100px;" />
 </div>
+
 <br>
+
+<!--
+
 
 # TurtleBot Distributors
 
@@ -73,15 +63,12 @@ If you want to be added to the map, please visit <a href="{{ site.baseurl }}/par
 
 <script type="text/javascript" src="https://embed.githubusercontent.com/view/geojson/turtlebot/map/master/Distributors.geojson"></script>
 <br>
-
-# TurtleBot Collaboration
-
-## TurtleBot3
-
+-->
+# HandsFree Collaboration
 <div style=" text-align:center ; padding:10px; ">
   <img id="collaboration" src="{{ site.baseurl }}/assets/images/collaboration.png" alt="TurtleBot3 Collaboration" style="width:100%; max-width:1042px;" />
 </div>
-
+<!--
 ## TurtleBot2
 
 <div style="display: flex; max-width:100%;flex-wrap:wrap;justify-content:space-around;">
