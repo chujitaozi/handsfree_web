@@ -1,11 +1,11 @@
 iframe {width:100%;} 
 .l_box {}
-.l_box {float:left; width:60%; margin:0; padding:0; }
+.l_box {float:left; width:50%; margin:0; padding:0; }
 .l_box img {width:50%; }
 
-.r_box {float:left; width:40%; margin:0; padding:80px 80px 15px; }
+.r_box {float:left; width:50%; margin:0; padding:80px 60px 15px; }
 .r_box li {list-style:none; width:50%;float:left;  }
-.r_box img {width:150%;}
+.r_box img {width:100%;}
 
 .quick_menu  { font-weight:bold; font-size:1.3em; }
 .quick_menu .txt { position: absolute; padding:15px; color:#ffffff; }
